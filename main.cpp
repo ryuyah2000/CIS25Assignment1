@@ -2,7 +2,7 @@
 // CIS25
 // Swaps 2 ints with a function using pointers
 
-#include <iostream>
+#include <iostream> // std::cout
 
 
 // swaps the 2 integers using pointers
